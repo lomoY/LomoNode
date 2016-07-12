@@ -1,2 +1,2 @@
 # LomoNode
-我用来做node联系的
+我用来做node练习的
